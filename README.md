@@ -3,7 +3,7 @@
 Este é um Jogo da Velha simples para 2 jogadores 🤝, desenvolvido com HTML, CSS e JavaScript 💻. Com design minimalista 🎨 e fácil de jogar 🕹️.
 
 ## Como jogar em 3 passos.
-1. Baixe o codigo e abra o arquivo index.html em seu navegador ou acesse clicando [aqui](gabriel-lacorte.github.io) 💻.
+1. Baixe o codigo e abra o arquivo index.html em seu navegador ou acesse clicando [aqui]([gabriel-lacorte.github.io](https://gabriel-lacorte.github.io/)) 💻.
 2. Clique em uma célula vazia para marcar seu movimento.
 3. O jogador com três marcas consecutivas ganha o jogo 🎉.
 
