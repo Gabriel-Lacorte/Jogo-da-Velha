@@ -7,6 +7,12 @@ Este é um Jogo da Velha simples para 2 jogadores 🤝, desenvolvido com HTML, C
 2. Clique em uma célula vazia para marcar seu movimento.
 3. O jogador com três marcas consecutivas ganha o jogo 🎉.
 
+## 📷 Capturas de Tela
+
+![Captura de Tela 1](screenshots/jogodavelha2.PNG)
+![Captura de Tela 2](screenshots/jogodavelha1.PNG)
+![Captura de Tela 3](screenshots/jogodavelha3.PNG)
+
 ## Como contribuir
 Este projeto é open-source e todos estão convidados a contribuir com melhorias ou correções. Siga os seguintes passos para fazer uma contribuição:
 
